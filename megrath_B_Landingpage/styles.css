@@ -129,7 +129,7 @@ table {
 /*--- General Styling ---*/
 html {
   height: 100%;
-  background-image: url(/images/bg-image/scooter.svg);
+  background-image: url("./images/bg-image/scooter.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 500px;
